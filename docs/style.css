@@ -69,8 +69,7 @@ a{
 }
 
 .task:hover{
-    animation: bigger 0.25s ease-out 0s;
-    animation-fill-mode: forwards;
+    animation: bigger 0.25s ease-out 0s forwards;
 }
 
 
